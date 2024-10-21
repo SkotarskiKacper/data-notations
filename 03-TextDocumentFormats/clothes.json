@@ -53,5 +53,18 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name":"Dice",
+        "founded":   2019,
+        "headquarters":"Cracow, Poland",
+        "employees":20,
+        "products":[
+            "Street Wear",
+            "Casual Wear",
+            "Skate Equippment",
+            "Accessories"
+        ]
     }
+
 ]
