@@ -1,0 +1,33 @@
+table {
+
+    border-collapse: collapse;
+    border: solid 2px;
+
+}
+
+th {
+    color: lightgreen;
+    background-color: darkolivegreen;
+
+}
+
+td {
+
+    padding: 10px;
+
+}
+
+td:nth-child(1) {
+
+    width: 25%;
+
+}
+
+td:nth-child(4) {
+    width: 40%;
+}
+
+tr:hover {
+    background-color: cornflowerblue;
+    color: blue;
+}
