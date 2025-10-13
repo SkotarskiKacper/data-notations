@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Vehicles>
+    <vehicle>
+
+        <type>Street Tram</type>
+        <speed units="Km/h">80</speed>
+        <PassengerCapacity>120</PassengerCapacity>
+
+    </vehicle>
+
+    <vehicle>
+
+        <type>Car</type>
+        <speed units="Km/h">180</speed>
+        <PassengerCapacity>5</PassengerCapacity>
+
+    </vehicle>
+
+    <vehicle>
+
+        <type>Skateboard</type>
+        <speed units="Km/h">25</speed>
+        <PassengerCapacity>1</PassengerCapacity>
+
+    </vehicle>
+</Vehicles>

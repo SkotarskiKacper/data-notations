@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<email>
+
+    <Sender>John Doe</Sender>
+    <Recepient>Jane Doe</Recepient>
+    <Subject>Potato delivery</Subject>
+    <MessageBody>
+    
+        I will be delvering potates today
+        eat
+
+    </MessageBody>
+
+
+</email>
