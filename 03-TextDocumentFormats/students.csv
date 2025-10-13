@@ -1,11 +1,11 @@
 ID,Name,Age,Grade,Email
 1,John Doe,20,A,johndoe@universitycom
-2,Jane Smith,ER,B,janesmith@university.edu
-3,Mike,21,C,mike.university.edu
+2,Jane Smith,20,B,janesmith@university.edu
+3,Mike,21,C,mike@university.edu
 4,Alice Johnson,19,A,alicejohnson@university.edu
-5,Bob Brown,twenty,B,bobbrown@university.edu
+5,Bob Brown,20,B,bobbrown@university.edu
 6,Emma Wilson,18,ER,emmawilson@university.edu
-7,Chris Lee,22,D,ER 
+7,Chris Lee,22,D,OtherEmail@Uni.edu
 8,Anna Scott,23,C,annascott@university.edu
-9,David,ER,B,david@university.edu
-10,ER,24,A,juliebaker@university.edu
+9,David,20,B,david@university.edu
+10,Someone,20,A,juliebaker@university.edu
