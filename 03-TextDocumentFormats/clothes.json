@@ -65,6 +65,18 @@
             "Skate Equippment",
             "Accessories"
         ]
+    },
+    {
+        "name":"RawHide",
+        "founded":   2016,
+        "headquarters":"Lublin, Poland",
+        "employees":29,
+        "products":[
+            "Street Wear",
+            "Casual Wear",
+            "Skate Equippment",
+            "Accessories"
+        ]
     }
 
 ]
